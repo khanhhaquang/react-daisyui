@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.5](https://github.com/daisyui/react-daisyui/compare/v2.0.4...v2.0.5) (2022-06-24)
+
+
+### Bug Fixes
+
+* **Navbar:** fix center ([#139](https://github.com/daisyui/react-daisyui/issues/139)) ([565512e](https://github.com/daisyui/react-daisyui/commit/565512e7ac509c987cac27c3bb6b971ba1096abb))
+
 ## [2.0.4](https://github.com/daisyui/react-daisyui/compare/v2.0.3...v2.0.4) (2022-06-23)
 
 
